@@ -1,1 +1,7 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"porteahealthcare-217c9","appId":"1:764866077699:android:22ee0af85fdb47e81f1a36","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"porteahealthcare-217c9","configurations":{"android":"1:764866077699:android:22ee0af85fdb47e81f1a36","web":"1:764866077699:web:a9441a334c848dcf1f1a36"}}}}}}
+{
+  "hosting": {
+    "public": "build/web",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [{ "source": "**", "destination": "/index.html" }]
+  }
+}
