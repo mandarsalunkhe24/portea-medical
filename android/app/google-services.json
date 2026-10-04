@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764866077699",
+    "project_id": "porteahealthcare-217c9",
+    "storage_bucket": "porteahealthcare-217c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764866077699:android:22ee0af85fdb47e81f1a36",
+        "android_client_info": {
+          "package_name": "com.portea.healthcare.portea_healthcare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC89kl8PTMUhmD8gcpYZtpOpzArsv7wXJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
